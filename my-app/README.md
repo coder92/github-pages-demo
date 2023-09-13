@@ -44,3 +44,36 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# GITHUB PAGES
+
+npx create-react-app my-app --template typescript
+cd my-app
+npm install gh-pages --save-dev
+
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "homepage": "https://coder92.github.io/github-pages-demo",
+  "private": true
+}
+
+"scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+}
+npm run deploy
+npm run deploy -- -m "Deploy React app to GitHub Pages"
+
+
+
+# Material UI React Lib
+npm install @mui/material @emotion/react @emotion/styled
+"peerDependencies": {
+  "react": "^17.0.0 || ^18.0.0",
+  "react-dom": "^17.0.0 || ^18.0.0"
+},
+npm install @fontsource/roboto
+npm install @mui/icons-material
