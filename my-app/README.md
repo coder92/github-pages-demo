@@ -77,3 +77,11 @@ npm install @mui/material @emotion/react @emotion/styled
 },
 npm install @fontsource/roboto
 npm install @mui/icons-material
+
+npm i react-router-dom
+npm i react-redux
+npm i @ant-design/icons
+npm i prop-types
+
+npm install --save-dev typescript
+npx tsc --init
