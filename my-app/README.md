@@ -85,3 +85,17 @@ npm i prop-types
 
 npm install --save-dev typescript
 npx tsc --init
+
+
+npm i @reduxjs/toolkit
+npm i framer-motion
+
+npm install \
+
+redux \
+
+react-redux \
+
+redux-thunk \
+
+redux-devtools-extension
