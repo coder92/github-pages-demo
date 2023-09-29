@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/github-pages-demo/three-js-demo/static/css/main.073c9b0a.css",
-    "main.js": "/github-pages-demo/three-js-demo/static/js/main.69411d25.js",
+    "main.js": "/github-pages-demo/three-js-demo/static/js/main.4110ddbb.js",
     "static/js/787.59149ceb.chunk.js": "/github-pages-demo/three-js-demo/static/js/787.59149ceb.chunk.js",
-    "static/media/logo.svg": "/github-pages-demo/three-js-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/github-pages-demo/three-js-demo/index.html",
     "main.073c9b0a.css.map": "/github-pages-demo/three-js-demo/static/css/main.073c9b0a.css.map",
-    "main.69411d25.js.map": "/github-pages-demo/three-js-demo/static/js/main.69411d25.js.map",
+    "main.4110ddbb.js.map": "/github-pages-demo/three-js-demo/static/js/main.4110ddbb.js.map",
     "787.59149ceb.chunk.js.map": "/github-pages-demo/three-js-demo/static/js/787.59149ceb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.69411d25.js"
+    "static/js/main.4110ddbb.js"
   ]
 }
