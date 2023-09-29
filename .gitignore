@@ -3,3 +3,5 @@ next-app/node_modules
 next-app/.next
 my-app/node_modules
 my-app/build
+three-js-demo/node_modules
+three-js-demo/build
