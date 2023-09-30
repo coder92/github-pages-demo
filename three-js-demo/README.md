@@ -69,3 +69,7 @@ react-redux \
 redux-thunk \
 
 redux-devtools-extension
+
+
+npm install three @types/three @react-three/fiber
+npm i @react-three/drei 
